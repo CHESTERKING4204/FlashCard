@@ -99,5 +99,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-Feel free to customize this README file further based on your project’s specific needs and additional details.
-
