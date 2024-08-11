@@ -23,7 +23,7 @@ Welcome to the **Flashcard Learning Tool**! 🎓 This is a simple yet powerful w
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/flashcard-learning-tool.git
+    git clone https://github.com/CHESTERKING4204/FlashCard.git
     cd flashcard-learning-tool
     ```
 
