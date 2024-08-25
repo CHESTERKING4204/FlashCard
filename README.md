@@ -58,7 +58,7 @@ Welcome to the **Flashcard Learning Tool**! 🎓 This is a simple yet powerful w
 
     ```bash
     cd backend
-    npm start
+    node server.js
     ```
 
     Start the frontend application:
