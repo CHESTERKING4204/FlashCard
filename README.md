@@ -99,18 +99,20 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## Home Page
+<strong>Home Page</strong>
 
 ![image](https://github.com/user-attachments/assets/5195159f-1eca-4ce7-a07e-adc5906188b3)
 
-##Add Card Page
+<strong>Add Card Page</strong>
 
 ![image](https://github.com/user-attachments/assets/74f665be-775f-4abd-8c86-e2129bb7c673)
 
-##FlashCard Demo
+<strong>FlashCard Demo</strong>
+
+https://github.com/user-attachments/assets/fa2bd0c2-21ef-4d51-acf0-bf361a7b8a8f
 
 
-https://github.com/user-attachments/assets/4bc97db1-e4f9-4f0b-8fab-b816a8018973
+
 
 
 
