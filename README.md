@@ -47,7 +47,7 @@ Welcome to the **Flashcard Learning Tool**! 🎓 This is a simple yet powerful w
     Create a `.env` file in the `backend` directory with the following content:
 
     ```
-    MONGO_URI=your_mongodb_connection_string
+    URI=your_mongodb_connection_string
     PORT=5000
     ```
 
