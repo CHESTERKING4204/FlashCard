@@ -36,10 +36,9 @@ Welcome to the **Flashcard Learning Tool**! 🎓 This is a simple yet powerful w
     npm install
     ```
 
-    For the frontend:
+    For the frontend(in the FlashCard folder):
 
     ```bash
-    cd ../frontend
     npm install
     ```
 
@@ -64,7 +63,6 @@ Welcome to the **Flashcard Learning Tool**! 🎓 This is a simple yet powerful w
     Start the frontend application:
 
     ```bash
-    cd ../frontend
     npm start
     ```
 
